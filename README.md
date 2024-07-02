@@ -32,12 +32,10 @@ The application uses the `pyqrcode` library to generate QR codes and `tkinter` f
 ## Installation
 
 Clone the repository and install dependencies using pip:
-
-```bash
+bash
 git clone https://github.com/yourusername/qr-code-generator.git
 cd qr-code-generator
 pip install -r requirements.txt
-```bash
 
 ## Customization
 
