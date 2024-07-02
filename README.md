@@ -37,6 +37,7 @@ Clone the repository and install dependencies using pip:
 git clone https://github.com/yourusername/qr-code-generator.git
 cd qr-code-generator
 pip install -r requirements.txt
+```bash
 
 ## Customization
 
