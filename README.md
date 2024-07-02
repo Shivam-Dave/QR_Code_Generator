@@ -37,3 +37,15 @@ Clone the repository and install dependencies using pip:
 git clone https://github.com/yourusername/qr-code-generator.git
 cd qr-code-generator
 pip install -r requirements.txt
+
+## Customization
+
+Feel free to customize the knowledge base and add more foods or nutrients based on your needs. The knowledge base is defined in the script as a dictionary, which can be easily modified.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, please contact shivamdave172003@gmail.com .
